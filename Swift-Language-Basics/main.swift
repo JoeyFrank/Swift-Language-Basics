@@ -12,7 +12,7 @@ import Foundation
  Module 3
  Challenge : Swift Language Basics
  Joseph Frank
- 8/5/17
+ 9/5/17
  */
 
 let sample1: UInt8 = 0x3A
